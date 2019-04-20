@@ -1,3 +1,9 @@
+/*
+ex) ()()<> this is valid
+
+ex) (()>    this is unvalid
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
